@@ -64,8 +64,10 @@ namespace AGV_에러_체크
 
         public void SendRelayState(int num, int state)
         {
+            // 램프 Open or Close
             if (state.Equals(0)) //open
-            {
+            {   
+                // 6: 녹색 7: 적색 8: 황색
                 switch (num)
                 {
                     case 6:
