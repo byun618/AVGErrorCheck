@@ -1,0 +1,9 @@
+D:/MLSystem/농심/AGV 에러 체크/AGV 에러 체크/bin/Debug/AGV 에러 체크.exe
+D:/MLSystem/농심/AGV 에러 체크/AGV 에러 체크/bin/Debug/AGV 에러 체크.pdb
+D:/MLSystem/농심/AGV 에러 체크/AGV 에러 체크/obj/x86/Debug/AGV_에러_체크.Properties.Resources.resources
+D:/MLSystem/농심/AGV 에러 체크/AGV 에러 체크/obj/x86/Debug/AGV 에러 체크.csproj.GenerateResource.Cache
+D:/MLSystem/농심/AGV 에러 체크/AGV 에러 체크/obj/x86/Debug/AGV 에러 체크.exe
+D:/MLSystem/농심/AGV 에러 체크/AGV 에러 체크/obj/x86/Debug/AGV 에러 체크.pdb
+D:/MLSystem/농심/AGV 에러 체크/AGV 에러 체크/obj/x86/Debug/AGV_에러_체크.MainForm.resources
+/Users/sanghyunbyun/Desktop/농심/AGV 에러 체크/AGV 에러 체크/obj/x86/Debug/AGV 에러 체크.exe
+/Users/sanghyunbyun/Desktop/농심/AGV 에러 체크/AGV 에러 체크/obj/x86/Debug/AGV 에러 체크.pdb

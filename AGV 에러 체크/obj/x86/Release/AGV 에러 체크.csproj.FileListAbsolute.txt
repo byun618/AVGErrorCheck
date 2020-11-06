@@ -1,0 +1,8 @@
+D:\MLSystem\농심\AGV 에러 체크\AGV 에러 체크\bin\Release\AGV 에러 체크.exe
+D:\MLSystem\농심\AGV 에러 체크\AGV 에러 체크\bin\Release\AGV 에러 체크.pdb
+D:\MLSystem\농심\AGV 에러 체크\AGV 에러 체크\obj\x86\Release\AGV_에러_체크.MainForm.resources
+D:\MLSystem\농심\AGV 에러 체크\AGV 에러 체크\obj\x86\Release\AGV_에러_체크.Properties.Resources.resources
+D:\MLSystem\농심\AGV 에러 체크\AGV 에러 체크\obj\x86\Release\AGV 에러 체크.csproj.GenerateResource.Cache
+D:\MLSystem\농심\AGV 에러 체크\AGV 에러 체크\obj\x86\Release\AGV 에러 체크.exe
+D:\MLSystem\농심\AGV 에러 체크\AGV 에러 체크\obj\x86\Release\AGV 에러 체크.pdb
+D:\MLSystem\농심\AGV 에러 체크\AGV 에러 체크\obj\x86\Release\AGV 에러 체크.csprojResolveAssemblyReference.cache
