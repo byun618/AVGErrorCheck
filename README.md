@@ -42,6 +42,7 @@ Util Program
 * **기존 프로그램**에서 에러 감지
     * Visual Studio Spy++ 를 이용
     <img width="500" alt="ezgif com-gif-maker" src="https://user-images.githubusercontent.com/27637757/98365479-d6169a00-2075-11eb-8b45-778511408d4b.JPG">
+    
         우상단의 빨간색 박스가 깜빡거리는 것 감지
 
 * C#을 이용해 프로그램 실행시 포트를 연결하고 창 최소화
